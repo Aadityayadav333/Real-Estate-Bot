@@ -1,0 +1,8 @@
+streamlit
+pandas
+altair
+crewai
+langchain_groq
+crewai-tools
+python-dotenv
+litellm
